@@ -15,4 +15,4 @@ The data for this project is sourced from the UCI Machine Learning repository an
 - Also, we can hypothesize that drivers who accepted the luxury restaurant coupons are likely to be individuals with occupations in healthcare, construction, office administration, healthcare support, or production occupations. They may also belong to the income range of $25,000 - $37,500, be frequent visitors of luxury restaurants, and possibly economic restaurants as well. They may be more inclined to accept coupons on warmer days, and if they are traveling with a partner, they are more likely to accept coupons. 
 - Overall, these drivers may have a higher disposable income, enjoy dining out frequently, and be influenced by weather conditions and social factors such as traveling with a partner.
 ## Notebook Link:
-<a href="project_source.ipynb">[Link to Jupyter Notebook]</a>
+<a href="Project_source.ipynb">[Link to Jupyter Notebook]</a>
